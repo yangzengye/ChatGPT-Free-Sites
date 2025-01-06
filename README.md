@@ -66,7 +66,6 @@ This repository provides a collection of free and usable ChatGPT mirror sites. N
 ## Keywords / 关键词
 
 `ChatGPT`, `free ChatGPT`, `ChatGPT mirror`, `ChatGPT sites`, `AI chat`,  `free chatgpt`, `免费ChatGPT`, `chatgpt镜像`,  `chatgpt站点` , `AI tool`,   `no cost`, `zero cost`,  `可访问`, `access`, `GPT-3.5`, `GPT-4`, `Claude`,  `免费`, `镜像`, `AI工具`
-..... (更多关键词)
 
 ## How to Contribute / 如何贡献
 
