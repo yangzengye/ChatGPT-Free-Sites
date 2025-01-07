@@ -1,6 +1,3 @@
-好的，我已将你的仓库地址、名字和邮件信息更新到 `CONTRIBUTING.md` 文件中。以下是完整的、更新后的文件内容：
-
-```markdown
 # Contributing to Free ChatGPT Mirrors / 如何为免费 ChatGPT 镜像站点仓库做贡献
 
 Thank you for your interest in contributing to the Free ChatGPT Mirrors project! We welcome contributions from everyone. / 感谢您有兴趣为免费 ChatGPT 镜像站点项目做出贡献！ 我们欢迎每个人的贡献。
@@ -91,4 +88,3 @@ There might be no actual source in this project, but for consistency, we use: / 
 If you have any questions, please feel free to open an issue or contact **yangzengye** at **zengyeyang8@gmail.com**. / 如果您有任何问题，请随时提出问题或通过 **zengyeyang8@gmail.com** 与 **yangzengye** 联系。
 
 Thank you for your contributions! / 感谢您的贡献！
-```
