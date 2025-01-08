@@ -11,6 +11,16 @@
   },
   {
     "id": 2,
+    "Icon": "https://st2.ai55.cc/1/4a7b0e0005555bb3.webp",
+    "Name": "NexusAI",
+    "Description_CN": "🆕NexusAI is your personal AI agent that helps you write stunning content, brainstorm ideas and solve problems in seconds.",
+    "Description_EN": "🆕 NexusAI is your personal AI agent that helps you write stunning content, brainstorm ideas...",
+    "Tags": "AI助手, 写作, 免费",
+    "Link": "https://www.nexusmind.tech/",
+    "Status": "✅"
+  },
+  {
+    "id": 3,
     "Icon": "https://st2.ai55.cc/1/1fbbd020ff3e1cd8175ac5977712f9b3.webp",
     "Name": "AItianhu",
     "Description_CN": "无限制的GPT-3.5 服务",
@@ -20,7 +30,7 @@
     "Status": "✅"
   },
   {
-    "id": 3,
+    "id": 4,
     "Icon": "https://st2.ai55.cc/1/9a6ee02230a7efad23a25dc9ead4cc7b.webp",
     "Name": "ChatGPT Web",
     "Description_CN": "😄🆕密码：alz-ai111",
@@ -30,7 +40,7 @@
     "Status": "✅"
   },
   {
-    "id": 4,
+    "id": 5,
     "Icon": "https://st2.ai55.cc/1/75dc221c83391ec219af939818be9e8c.webp",
     "Name": "Skybyte Free AI Chat",
     "Description_CN": "😄⭐🆕",
@@ -40,7 +50,7 @@
     "Status": "✅"
   },
    {
-    "id": 5,
+    "id": 6,
     "Icon": "https://st2.ai55.cc/1/697687ef8ccdcb4f1773c081557ba823.ico",
     "Name": "CnsGPT.fun",
     "Description_CN": "✈️🆕免费稳定支持gpt3.5",
@@ -50,23 +60,13 @@
     "Status": "✅"
   },
   {
-    "id": 6,
+    "id": 7,
     "Icon": "https://st2.ai55.cc/1/a63ba1611b428dcc2f270e777c7b0916.webp",
     "Name": "robot",
     "Description_CN": "🆕新增商汤日日新大模型、Claude-3、GLM-4 等",
     "Description_EN": "🆕 New SenseTime, Claude-3, GLM-4...",
     "Tags": "商汤日日新, Claude-3, GLM-4, 免费",
     "Link": "https://robot.liujiarong.me",
-    "Status": "✅"
-  },
-  {
-    "id": 7,
-    "Icon": "https://st2.ai55.cc/1/4a7b0e0005555bb3.webp",
-    "Name": "NexusAI",
-    "Description_CN": "🆕NexusAI is your personal AI agent that helps you write stunning content, brainstorm ideas and solve problems in seconds.",
-    "Description_EN": "🆕 NexusAI is your personal AI agent that helps you write stunning content, brainstorm ideas...",
-    "Tags": "AI助手, 写作, 免费",
-    "Link": "https://www.nexusmind.tech/",
     "Status": "✅"
   },
   {
